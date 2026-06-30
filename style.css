@@ -12,3 +12,16 @@ body {
 li {
     margin: 10px 0;
 }
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+button {
+    padding: 5px 10px;
+    cursor: pointer;
+}
